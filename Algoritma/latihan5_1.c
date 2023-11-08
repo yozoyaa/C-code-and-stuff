@@ -5,11 +5,11 @@ int main()
     int sisi1, sisi2, sisi3;
 
     printf("Masukkan sisi 1 : ");
-    scanf("%i", &sisi1);
+    scanf("%d", &sisi1);
     printf("Masukkan sisi 2 : ");
-    scanf("%i", &sisi2);
+    scanf("%d", &sisi2);
     printf("Masukkan sisi 3 : ");
-    scanf("%i", &sisi3);
+    scanf("%d", &sisi3);
 
     int sisisama = 0;
 
