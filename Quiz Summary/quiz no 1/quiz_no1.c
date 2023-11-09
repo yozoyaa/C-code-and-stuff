@@ -1,15 +1,15 @@
-#include <stdio.h>
-int main()
-{
-    int i, nilai=20, x= 20;
-    printf("%d", nilai);
-    for(i = 1; i < 10; i++)
+#include<stdio.h>
+int main(){
+
+    int i, x = 20, a = 20;
+    for ( i = 1; i <= 10; i++)
     {
-        x += 5;
-        nilai = nilai + x;
-        printf("\n%d",nilai);
+        printf("\n%d", x);
+        a += 5;
+        x = x + a;
+
     }
-    
+    return 0;
 }
 
 /*The output: 
