@@ -15,5 +15,10 @@ int main() {
     return 0;
 }
 
-/*The output: 
+/*The output:
+a 
+b c 
+d e f 
+g h i j 
+k l m n o  
 */
